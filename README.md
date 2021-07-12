@@ -1,2 +1,2 @@
 # Option-Calculator
-Options Pricing Calculator in Python
+Black-Scholes Options Pricing Calculator in Python
