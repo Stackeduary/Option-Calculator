@@ -1,2 +1,2 @@
 # Option-Calculator
-Stock Option Calculator in Python
+Options Pricing Calculator in Python
